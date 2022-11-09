@@ -15,9 +15,9 @@
     </table>
 
 <hr>
-<h2>💫Education</h2>
+<h2>Education</h2>
 
-<p>My first school of my life is my home and my first teacher and best teacher of my life is <strong><em>"My Mumma".</em></strong>I ❤ my Mumma so much.</p>
+<p>My first school of my life is my home and my first teacher and best teacher of my life is <strong><em>"My Mumma".</em>.</p>
 <p>
   <h3>My course List those I completed</h3>
   <ul>
@@ -30,7 +30,7 @@
       <li>Compiler Design</li>
     </p>
 
-  <p><h3><a href="Hobbies.html">My hobbies</a></h3>
+  <p><h3><a href="hobbies.html">My hobbies</a></h3>
 
 </p>
 <hr>
